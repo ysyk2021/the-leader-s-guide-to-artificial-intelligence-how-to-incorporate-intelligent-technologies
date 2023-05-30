@@ -10,4 +10,4 @@ Throughout the book, we will provide case studies and practical examples of how 
 
 This book is intended for leaders who are interested in learning more about AI and its potential applications in their organizations. Whether you are a CEO, CIO, or a manager responsible for a specific function, this book will provide you with the information you need to make informed decisions about incorporating AI into your organization.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
