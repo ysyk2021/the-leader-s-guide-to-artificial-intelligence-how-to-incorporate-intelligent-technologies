@@ -1,5 +1,3 @@
-Chapter 7: Measuring the Impact of AI on Your Organization
-==========================================================
 
 Implementing AI technologies can provide significant benefits for organizations, from increased efficiency to improved decision-making. However, to fully unlock the potential of AI, it is important to measure its impact on the organization and make adjustments as needed. This chapter covers two key aspects of measuring the impact of AI on your organization: evaluating ROI and other metrics, and adjusting strategies as needed.
 

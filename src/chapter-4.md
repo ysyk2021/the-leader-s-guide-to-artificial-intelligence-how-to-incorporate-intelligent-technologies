@@ -1,5 +1,3 @@
-Chapter 4: Developing an AI Strategy for Your Organization
-==========================================================
 
 As organizations continue to adopt artificial intelligence (AI) technologies, it is important to develop a strategy that aligns with their goals and objectives. This chapter will cover two key aspects of developing an AI strategy: assessing your organization's needs and capabilities, and setting goals and defining success metrics.
 

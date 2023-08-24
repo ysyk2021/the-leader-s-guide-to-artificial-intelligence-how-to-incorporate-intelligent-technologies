@@ -1,5 +1,3 @@
-Adjusting Strategies as Needed
-==========================================================================================
 
 As organizations increasingly adopt AI technologies, it is important to measure the impact of these technologies on organizational performance and make adjustments as needed. This chapter explores strategies for measuring the impact of AI on your organization and adjusting your AI strategy accordingly.
 

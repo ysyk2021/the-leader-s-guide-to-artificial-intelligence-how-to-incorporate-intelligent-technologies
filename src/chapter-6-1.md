@@ -1,5 +1,3 @@
-Identifying Use Cases and Selecting Technology Solutions
-=========================================================================================================
 
 Incorporating Artificial Intelligence (AI) into your organization can be a complex process. In this chapter, we will explore how to identify use cases for AI and select technology solutions that are best suited to your organization's needs.
 

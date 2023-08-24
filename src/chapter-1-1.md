@@ -1,5 +1,3 @@
-Overview of the Leader's Guide to Artificial Intelligence
-==================================================================================
 
 Artificial Intelligence (AI) is rapidly transforming how organizations operate and compete. From automating routine tasks to powering new products and services, AI has the potential to drive innovation, efficiency, and growth.
 

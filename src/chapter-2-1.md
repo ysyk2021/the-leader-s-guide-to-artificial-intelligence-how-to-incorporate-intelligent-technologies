@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 Artificial Intelligence (AI) has a rich history that stretches back several decades. In this chapter, we will explore the key milestones in the development of AI.
 
@@ -34,5 +32,4 @@ Conclusion
 ----------
 
 The history of AI is a long and fascinating one, with many key milestones and breakthroughs. From the early research of the 1940s and 1950s to the machine learning resurgence of the present day, AI has come a long way. By understanding the history of AI, organizations can better appreciate the potential of this transformative technology and make informed decisions about how to incorporate it into their operations.
-
 

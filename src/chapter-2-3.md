@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Artificial Intelligence (AI) is a broad and complex field, encompassing a wide range of technologies and techniques. In this chapter, we will focus on one of the most important aspects of AI: machine learning.
 

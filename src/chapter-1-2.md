@@ -1,5 +1,3 @@
-Purpose of the Book
-============================================
 
 The purpose of The Leader's Guide to Artificial Intelligence is to provide leaders with a comprehensive understanding of AI and its potential applications in organizations. This book is designed for leaders at all levels who are interested in incorporating AI into their operations, but may not have a technical background in the field.
 

@@ -1,5 +1,3 @@
-Fostering Collaboration between Humans and Machines
-============================================================================================
 
 As organizations increasingly adopt AI technologies, it is important to build a culture that supports the collaboration between humans and machines. This chapter explores strategies for building an AI-ready culture and fostering a collaborative relationship between humans and machines.
 

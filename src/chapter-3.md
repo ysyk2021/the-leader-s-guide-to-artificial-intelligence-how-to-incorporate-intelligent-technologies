@@ -1,5 +1,3 @@
-Chapter 3: Benefits and Risks of AI for Organizations
-=====================================================
 
 Artificial Intelligence (AI) has the potential to transform how organizations operate and compete. In this chapter, we will explore the benefits and risks of AI for organizations.
 

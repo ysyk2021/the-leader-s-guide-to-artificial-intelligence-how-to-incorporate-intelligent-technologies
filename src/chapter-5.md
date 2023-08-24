@@ -1,5 +1,3 @@
-Chapter 5: Building an AI-Ready Culture
-=======================================
 
 As organizations increasingly adopt artificial intelligence (AI) technologies, it is essential to build a culture that is prepared to leverage its potential. This requires educating employees about AI and fostering collaboration between humans and machines. In this chapter, we will explore these two subtopics in more detail.
 
