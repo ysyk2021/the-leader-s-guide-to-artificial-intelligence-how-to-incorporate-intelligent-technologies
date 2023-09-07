@@ -25,3 +25,4 @@
 - [Chapter 8: Future of AI and Organizational Leadership](chapter-8.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
