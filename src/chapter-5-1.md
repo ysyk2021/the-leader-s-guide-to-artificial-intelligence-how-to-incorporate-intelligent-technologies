@@ -1,5 +1,4 @@
-Chapter 8: Educating Employees about AI
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of educating employees about artificial intelligence (AI) and how to effectively incorporate intelligent technologies into your organization. By providing the necessary knowledge and skills, you can empower your workforce to embrace AI, drive innovation, and adapt to the changing technological landscape.
 

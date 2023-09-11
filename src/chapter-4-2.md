@@ -1,5 +1,4 @@
-Chapter 3: Setting Goals and Defining Success Metrics
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of setting goals and defining success metrics for incorporating intelligent technologies into your organization. Clearly articulating your objectives and identifying measurable outcomes are essential for driving focused implementation and assessing the impact of AI initiatives.
 

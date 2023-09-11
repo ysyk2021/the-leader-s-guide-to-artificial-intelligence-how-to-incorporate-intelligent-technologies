@@ -1,5 +1,4 @@
-Chapter 6: Managing Data and Ensuring Ethical and Legal Compliance
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of managing data effectively and ensuring ethical and legal compliance when incorporating intelligent technologies into your organization. These practices are vital for maintaining data integrity, protecting privacy, and building trust with stakeholders.
 

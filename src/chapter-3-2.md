@@ -1,5 +1,4 @@
-Chapter 9: Potential Risks and Challenges
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential risks and challenges associated with incorporating artificial intelligence (AI) and intelligent technologies into your organization. By understanding these risks, leaders can develop strategies to mitigate them effectively and ensure the responsible and successful integration of AI.
 

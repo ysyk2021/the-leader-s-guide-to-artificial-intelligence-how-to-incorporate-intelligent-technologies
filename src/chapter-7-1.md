@@ -1,5 +1,4 @@
-Chapter 6: Evaluating ROI and Other Metrics
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the importance of evaluating Return on Investment (ROI) and other key metrics when incorporating intelligent technologies into your organization. By assessing the impact and effectiveness of your AI initiatives, you can make informed decisions, optimize performance, and ensure the successful integration of AI within your organization.
 

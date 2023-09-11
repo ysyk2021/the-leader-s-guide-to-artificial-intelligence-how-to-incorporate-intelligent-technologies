@@ -1,5 +1,4 @@
-Chapter 5: Opportunities Created by AI
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the vast opportunities created by artificial intelligence (AI) and how leaders can leverage intelligent technologies to drive innovation, enhance efficiency, and achieve organizational success.
 
